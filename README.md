@@ -1,4 +1,4 @@
-# PoliInfo4-DryRun-Stance-Classification-2
+# PoliInfo4-FormalRun-Stance-Classification-2
 
 ## 目的
 Stance Classification-2では，明示的な賛否表現をマスクした討論発言から，議案への賛否を推定します。
